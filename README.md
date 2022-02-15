@@ -2,7 +2,7 @@
 
 ### forecast sales in stores across several cities six weeks ahead of time
 
-### the purpose of this project was to build and serve an end-to-end product that delivers this prediction to analysts in the finance team. 
+### The data team identified factors such as promotions, competition, school and state holidays, seasonality, and locality as necessary for predicting the sales across the various stores the purpose of this project was to build and serve an end-to-end product that delivers this prediction to analysts in the finance team. 
 
 ### Data and Features
 The data for this challenge can be found here.
